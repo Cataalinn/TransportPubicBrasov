@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimaryDark">#004d40</color>
+    <color name="colorAccent">#651fff</color>
+    <color name="colorPrimary">#009688</color>
+
+   <!-- <color name="line1"></color>
+    <color name="line2"></color>
+    <color name="line3"></color>
+    <color name="line4"></color>
+    <color name="line5"></color>
+    <color name="line5b"></color>
+    <color name="line6"></color>
+    <color name="line7"></color>
+    <color name="line8"></color>
+    <color name="line9"></color>
+    <color name="line10"></color>
+    <color name="line11"></color>
+    <color name="line12"></color>
+    <color name="line14"></color>
+    <color name="line15"></color>
+    <color name="line16"></color>
+    <color name="line17"></color>
+    <color name="line17B"></color>
+    <color name="line18"></color>
+    <color name="line20"></color>
+    <color name="line21"></color>
+    <color name="line22"></color>
+    <color name="line23"></color>
+    <color name="line23B"></color>
+    <color name="line24"></color>
+    <color name="line25"></color>
+    <color name="line28"></color>
+    <color name="line29"></color>
+    <color name="line30"></color>
+    <color name="line31"></color>
+    <color name="line32"></color>
+    <color name="line33"></color>
+    <color name="line34"></color>
+    <color name="line34B"></color>
+    <color name="line35"></color>
+    <color name="line36"></color>
+    <color name="line37"></color>
+    <color name="line40"></color>
+    <color name="line41"></color>
+    <color name="line45"></color>
+    <color name="line50"></color>
+    <color name="line51"></color>
+    <color name="line52"></color>-->
+
+
+    <string-array name="busColors">
+        <item>#fcf81d</item>
+        <item>#00bd47</item>
+        <item>#6b99ba</item>
+        <item>#f82b3c</item>
+        <item>#fd7306</item>
+        <item>#01a98f</item>
+        <item>#efe44e</item>
+        <item>#f66e32</item>
+        <item>#65eded</item>
+        <item>#ed839a</item>
+        <item>#b1f000</item>
+        <item>#f66e32</item>
+        <item>#006bc5</item>
+        <item>#2391d0</item>
+        <item>#db33a4</item>
+        <item>#813158</item>
+        <item>#a2e9bd</item>
+        <item>#efe44e</item>
+        <item>#f82b3c</item>
+        <item>#f66e32</item>
+        <item>#113bab</item>
+        <item>#9c9c9c</item>
+        <item>#ecc1df</item>
+        <item>#af90a0</item>
+        <item>#338185</item>
+        <item>#ff9d1c</item>
+        <item>#0278b8</item>
+    </string-array>
+
+    <string-array name="midiBusColors">
+        <item>#d0c09c</item>
+        <item>#4bba3a</item>
+        <item>#030d91</item>
+        <item>#fdf681</item>
+        <item>#6e3710</item>
+        <item>#56abc0</item>
+        <item>#00bd47</item>
+        <item>#e30e78</item>
+        <item>#beb53e</item>
+        <item>#a1d7d7</item>
+    </string-array>
+
+    <string-array name="trolleyColors">
+        <item>#a9aea8</item>
+        <item>#71e4d3</item>
+        <item>#fd7306</item>
+        <item>#ecc1df</item>
+        <item>#b31f37</item>
+        <item>#2391d0</item>
+        <item>#b1f000</item>
+        <item>#c4c4c4</item>
+    </string-array>
+
+</resources>

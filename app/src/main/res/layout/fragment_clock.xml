@@ -1,0 +1,21 @@
+<android.support.v4.widget.SwipeRefreshLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/swipeToRefresh"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="catalin.florescu.transportpubicbrasov.Views.ClockFragment">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <android.support.v7.widget.RecyclerView
+            android:id="@+id/my_recycler_view"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_marginTop="66dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp" />
+    </RelativeLayout>
+
+</android.support.v4.widget.SwipeRefreshLayout>
